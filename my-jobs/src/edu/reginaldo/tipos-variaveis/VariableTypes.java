@@ -11,6 +11,15 @@ public class VariableTypes {
 
         final double VALOR_DE_PI = 3.14;
 
+        System.out.println("Teste");
+
+        int a=10;
+        int b = 2;
+
+        String resultado = a==b ? "Verdadeiro" : "Falso"; 
+
+        System.out.println(resultado);
+
     }
 
 }
